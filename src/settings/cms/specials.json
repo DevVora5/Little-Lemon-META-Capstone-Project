@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Makhanwala",
+    "image": "https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x500.jpg",
+    "price": 10.99,
+    "description": "A rich and creamy delicacy featuring succulent cubes of paneer (Indian cottage cheese) simmered in a luscious tomato and cashew gravy, infused with aromatic spices."
+  },
+  {
+    "id": 2,
+    "title": "Hara Bhara Kabab",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/01/hara-bhara-kabab-recipe-1.jpg",
+    "price": 5.99,
+    "description": "A flavorful vegetarian delight made with a nutritious blend of spinach, green peas, potatoes, and aromatic spices, crafted into delectable kebabs, crispy on the outside and tender on the inside."
+  },
+  {
+    "id": 3,
+    "title": "Gulab Jamun",
+    "image": "https://enjoyinfourseason.com/wp-content/uploads/2022/05/Fourseason-HOT-GULAB-JAMUN-2PC.jpg",
+    "price": 7.99,
+    "description": "Indulge in the heavenly sweetness of Gulab Jamun, soft and spongy milk solids dipped in a fragrant sugar syrup infused with cardamom and rose water, creating a melt-in-your-mouth dessert experience."
+  }
+]

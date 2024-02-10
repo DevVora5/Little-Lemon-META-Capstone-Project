@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "name": "Dev Vora",
+    "review": "The Paneer Tikka Masala exudes a tantalizing blend of smoky flavors and velvety textures, a true symphony of spices.",
+    "image": "https://media.licdn.com/dms/image/D4D03AQGUDJ_0HEATmg/profile-displayphoto-shrink_400_400/0/1699526633649?e=1712793600&v=beta&t=gGA5EGXxqcXieKResg-7UY1X-tl9zZqEGHVxy3j88eA"
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "name": "Elon Musk",
+    "review": "Savoring the fragrant Basmati Rice paired with the aromatic Dal Makhani transports one to the heart of Punjab's culinary heritage.",
+    "image": "https://th-i.thgim.com/public/incoming/9uvnty/article67222424.ece/alternates/BASE_SQUARE/2023-08-04T094328Z_1224629970_RC2WG2AC6YU7_RTRMADP_3_WPP-RESULTS-TWITTER.JPG"
+  },
+  {
+    "id": 3,
+    "rating": 4,
+    "name": "Bill Gates",
+    "review": "Indulge in the decadent richness of the Butter Naan, its pillowy softness complementing the robust flavors of North Indian curries.",
+    "image": "https://media.licdn.com/dms/image/D5603AQHv6LsdiUg1kw/profile-displayphoto-shrink_400_400/0/1695167344576?e=1712793600&v=beta&t=CSWZirl9zUls9b1USXe6x8EDjGwaIRL1uPkIOgHBWLc"
+  },
+  {
+    "id": 4,
+    "rating": 5,
+    "name": "Brad Pitt",
+    "review": "The delicate balance of tangy tamarind and aromatic spices in the Chole Bhature offers a delightful culinary journey through the streets of Delhi.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/brad-pitt-attends-the-premiere-of-20th-century-foxs--square.jpg"
+  }
+]
